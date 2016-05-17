@@ -1,5 +1,5 @@
 # kommit
-libgit2 experiment. commits a head with current branch name
+libgit2 experiment. commits a head with current branch name and your message
 
 Yes.
 
